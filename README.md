@@ -108,8 +108,8 @@ The "emotion_classification.ipynb" notebook contains the experimentation and mac
 
 1. Clone the repository
 
-git clone https://github.com/your-username/Emotion-Classification-NLP.git
-cd Emotion-Classification-NLP
+git clone https://github.com/AftabAhmedKhan/EmotionSense---Emotion-Classification-using-NLP.git
+cd EmotionSense---Emotion-Classification-using-NLP
 
 2. Install dependencies
 
